@@ -1,6 +1,6 @@
 # School Management Portal for Madarsa
 
-Dashboard
+<p>Dashboard</p>
 Attendance
 Student Details log
 Exam
